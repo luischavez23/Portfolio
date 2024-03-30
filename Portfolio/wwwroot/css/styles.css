@@ -1,0 +1,9 @@
+﻿.about_me{
+    width: 200px;
+    border-radius: 50%;
+}
+
+.bg-purple {
+    background-color: #6e07f3;
+    padding: 30px;
+}
